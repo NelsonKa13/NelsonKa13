@@ -25,7 +25,7 @@ Description of the project.
 
 ## Contact Me
 
-- [LinkedIn](www.linkedin.com/in/наиль-калимуллин-994b00100)
+- [LinkedIn](www.linkedin.com/in/nailka)
 - [Email](abc.growth@gmail.com)
 
 ## GitHub Stats
